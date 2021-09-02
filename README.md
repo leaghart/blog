@@ -1,5 +1,5 @@
 # blog
-hugo blog
+
 This is an attempt to create a static page blog using Hugo for upload onto Unstoppable Domains as NFT website</p>
 A Go Daddy DNS based webiste will be linked to the Unstoppable Domain & Hugo static pages</p>
 The idea is that the static pages linking through the DNS will index on Google and rank for SEO along with deeplinks and backlinks</p>
